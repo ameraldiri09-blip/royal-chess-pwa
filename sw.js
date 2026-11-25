@@ -1,4 +1,4 @@
-const CACHE_NAME = 'royal-chess-v1';
+const CACHE_NAME = 'royal-chess-v2';
 const PRECACHE_URLS = [
   './',
   './index.html',
